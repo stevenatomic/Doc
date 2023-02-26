@@ -91,7 +91,7 @@ https://zhuanlan.zhihu.com/p/352736372?utm\_id=0
 ⚠️Ps：据说甲骨文近期已停止对个人用户开放注册，而且出台了试用服务器的回收政策。
 
 👉[官网原文链接](https://docs.oracle.com/en-us/iaas/Content/FreeTier/freetier_topic-Always_Free_Resources.htm)
-👉[防回收攻略](https://ybfl.xyz/sites/167.html)
+👉[防回收攻略](https://lala.im/8589.html)
 
 #### AWS亚马逊
 亚马逊云服务器的Lightsail和ECC（EC2），新注册账号后，Lightsail服务器免费试用3个月，100G/月总流量，ECC服务器免费试用一年，同样100G/月总流量。两种类型都可以随意选择区域线路。Lightsail和ECC是分开计费的，所以试用期内可以各申请一台。由于亚马逊云服务器的计费方式限制了使用时间750小时/月和30G/月弹性储存容量，所以增加服务器数量会被反薅收费。
