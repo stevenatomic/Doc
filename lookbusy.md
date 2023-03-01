@@ -1,6 +1,19 @@
 # lookbusy
 提高服务器资源利用率,资源就是预算,不用就没了.
 
+## 方案一，编辑systemctl保持运行
+https://lala.im/8589.html
+https://ybfl.xyz/sites/167.html
+
+## 方案二，定时任务运行
+```
+$ sudo -i
+$ crontab -l
+$ crontab -e
+30 6 * * * /root/lookbusy-1.4/lookbusy -c 20 -r curve -m 50MB -M 2000
+45 6 * * * /usr/bin/killall lookbusy
+```
+
 ## 原版
 ```
 lookbusy -- a synthetic load generator http://www.devin.com/lookbusy/
