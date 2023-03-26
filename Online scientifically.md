@@ -59,7 +59,8 @@ https://zhuanlan.zhihu.com/p/476434200?utm\_id=0
 1. https://console.bywa.art/aff.php?aff=202
 2. https://portal.shadowsocks.au/aff.php?aff=34097
 3. 或者👇这个链接里的鸡场自行挑选试用。
-    https://9.234456.xyz/abc.html?t=567
+   
+   https://9.234456.xyz/abc.html?t=638154915450878078
 
 ⚠️如果以上链接失效，Contact Me。
 
