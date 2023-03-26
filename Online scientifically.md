@@ -110,7 +110,7 @@ https://youtube.com/playlist?list=PL781TkNqYVmpUmAf5DpOXbEoEAStYYZoH （须要�
 ### 配置服务器
 在拥有了自己的服务器后，如何建站配置服务器的科学上网环境，就根据网上教程自学吧。提供以下资料源供参考：（须要科学上网）
 
-* https://youtube.com/playlist?list=PL5TbbtexT8T3d\_7UX2aSFhoMYk-cl4kf4
+* https://youtu.be/_618At72evs
 * https://www.youtube.com/watch?v=Stdj6U568S0
 * https://www.youtube.com/watch?v=d3WixFDz5BA
 * https://www.v2fly.org
